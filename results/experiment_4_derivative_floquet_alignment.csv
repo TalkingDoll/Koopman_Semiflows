@@ -1,0 +1,13 @@
+component,mode,numerical derivative,theoretical derivative
+real,0,0.0,0.0
+real,1,0.0,0.0
+real,2,0.0,0.0
+real,3,0.0,0.0
+real,4,0.0,0.0
+real,5,0.0,0.0
+imaginary,0,1.1895111937464415e-14,0.0
+imaginary,1,0.9999999919342552,1.0
+imaginary,2,2.1557491117383568e-16,0.0
+imaginary,3,-1.922789382279803e-15,0.0
+imaginary,4,6.101432156460526e-17,0.0
+imaginary,5,1.7390043886831086e-16,0.0
